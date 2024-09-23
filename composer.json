@@ -1,0 +1,11 @@
+{
+    "name": "gioco-plus/spribe-contract",
+    "description": "spribe interface",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\Spribe\\": "src/"
+        }
+    },
+    "require": {}
+}
